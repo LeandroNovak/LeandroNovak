@@ -1,7 +1,7 @@
 body {
     font: 20px Montserrat, sans-serif;
     color: #ffffff;
-    background-color:#333333; 
+    background-color:#272727;
 }
 
 h1 {
@@ -29,9 +29,9 @@ p {
 }
 
 .bg-1 {
-    margin-top: 25px; 
+    margin-top: 25px;
     margin-bottom: 0px;
-    background-color: #333333; /*Green */
+    background-color: #272727; /* Green */
     color: #ffffff;
 }
 
@@ -52,6 +52,6 @@ p {
 
 .profile-picture {
     margin: 25px auto;
-    box-shadow: 0 0 0 10px #F0F0EE;
+    box-shadow: 0 0 0 10px #D5D5D5;
     margin-bottom: 10px;
 }
